@@ -135,9 +135,10 @@ src/main/java/com/example/tp7springjaxrs/
 9. **Support XML** - Annotations `@Produces`/`@Consumes`
 10. **Sérialisation XML** - Annotation `@XmlRootElement`
 
-## 🧪 Tests avec SoapUI
+## 🧪 Tests avec POSTMAN
 
-![Test SoapUI](images/soapui-test.png)
+<img width="1896" height="1011" alt="506201641-efd5b145-9179-4a87-ac9b-70713a13f8bc" src="https://github.com/user-attachments/assets/8bc0e4db-3c23-4639-a24d-8c5f7fad0ec9" />
+
 
 Les tests peuvent être effectués avec SoapUI, Postman ou tout autre client REST. L'image ci-dessus montre un exemple de test avec SoapUI pour récupérer la liste des comptes au format XML.
 
@@ -188,5 +189,7 @@ L'application suit une architecture 3-tiers standard :
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 
 ## 👤 Auteur
+
+<img width="1917" height="986" alt="Capture d’écran 2025-11-22 164339" src="https://github.com/user-attachments/assets/5505bcec-2ea9-4d73-b434-2d0b8d8088e7" />
 
 TP réalisé dans le cadre du cours de développement d'applications avec Spring Boot et JAX-RS.
